@@ -1,5 +1,10 @@
 # LITA_class_documentation
 
+[My Story](#my-story)
+
+Visualization
+Heading
+
 ### My Story
 ---
 My name is Oghoepha Precious Ewomazino. I'm Abba's delight. He's always paving way for me. Sometimes, i wonder if i truly deserve his lovingkindness. 
@@ -17,3 +22,7 @@ My name is Oghoepha Precious Ewomazino. I'm Abba's delight. He's always paving w
 
 
 😆
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
