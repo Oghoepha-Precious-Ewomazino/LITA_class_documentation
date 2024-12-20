@@ -12,6 +12,7 @@ My name is Oghoepha Precious Ewomazino. I'm Abba's delight. He's always paving w
   select * from table 1
   where condition = true
   ```
+ ## visualization
  ![neon-brick-wall-background-concept_1028938-442123](https://github.com/user-attachments/assets/080efeb9-0b66-4b70-8854-cdf0548b7a8d)
 
-## visulization
+
